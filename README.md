@@ -37,8 +37,13 @@ Latest Version: `2.0.5`
 
 ```text
 d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb
-
-Bitcoin
+```
+### Bitcoin
+```text
 bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t
-Ethereum
+```
+
+### Ethereum
+```text
 0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7
+```
