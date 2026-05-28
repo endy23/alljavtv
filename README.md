@@ -33,6 +33,12 @@ Latest Version: `2.0.5`
 
 ## Crypto Donations
 
+## Phantom / Solana Donations
+
+<a href="https://phantom.app/ul/v1/transfer?recipient=d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb">
+  <img src="https://img.shields.io/badge/Donate-Phantom-purple?style=for-the-badge">
+</a>
+
 ### SOLANA
 
 ```text
