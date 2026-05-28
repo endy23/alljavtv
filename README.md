@@ -8,7 +8,7 @@ This app contains a database with over 50,000 videos, and with your support even
 
 Download
 
-""Download APK" (https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)" (https://github.com/endy23/alljavtv/releases/latest)
+[[""Download APK" ](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)"](https://github.com/endy23/alljavtv/releases/latest)
 
 Latest Version: "2.0.5"
 
