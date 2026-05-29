@@ -15,7 +15,11 @@ This app contains a database with over 50,000 videos, and with your support even
 ![GitHub Downloads](https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge)
 [![Star History Chart](https://api.star-history.com/svg?repos=endy23/alljavtv&type=Date)](https://star-history.com/#endy23/alljavtv&Date)
 
+---
+
+ ## Website 
 [![Website](https://img.shields.io/badge/Website-Open-black?style=for-the-badge)](https://endy23.github.io/alljavtv/)
+
 ---
 
 ## Features
@@ -34,6 +38,12 @@ This app contains a database with over 50,000 videos, and with your support even
 2. Enable "Install unknown apps"
 3. Open APK
 4. Install application
+
+---
+
+## Disclaimer
+
+This application is intended for adult audiences only.
 
 ---
 
