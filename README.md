@@ -47,17 +47,17 @@ This application is intended for adult audiences only.
 
 ---
 
-Buy Me a Coffee ☕
+## Buy Me a Coffee ☕
 
-PayPal
+## PayPal
 
 <a href="https://paypal.me/endyaris">
   <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal">
 </a>---
 
-Crypto Donations
+## Crypto Donations
 
-Phantom / Solana
+## Phantom / Solana
 
 <a href="https://phantom.app/ul/v1/transfer?recipient=d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb">
   <img src="https://img.shields.io/badge/Donate-Phantom-purple?style=for-the-badge">
@@ -65,17 +65,17 @@ Phantom / Solana
 
 d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb
 
-Bitcoin Address
+## Bitcoin Address
 
 bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t
 
-Ethereum Address
+## Ethereum Address
 
 0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7
 
 ---
 
-Contact
+## Contact
 
 For support, bug reports, or business inquiries:
 
@@ -83,6 +83,6 @@ For support, bug reports, or business inquiries:
 
 ---
 
-Website
+## Website
 
 https://endy23.github.io/alljavtv/
