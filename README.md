@@ -13,7 +13,6 @@ This app contains a database with over 50,000 videos, and with your support even
 ## Latest Version: "2.0.5"
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge)
-[![Star History Chart](https://api.star-history.com/svg?repos=endy23/alljavtv&type=Date)](https://star-history.com/#endy23/alljavtv&Date)
 
 ---
 
