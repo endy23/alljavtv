@@ -8,17 +8,12 @@ This app contains a database with over 50,000 videos, and with your support even
 
 ## Download
 
-![""Download APK" ](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)(https://github.com/endy23/alljavtv/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/endy23/alljavtv/releases/latest)
 
 ## Latest Version: "2.0.5"
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge)
 [![Star History Chart](https://api.star-history.com/svg?repos=endy23/alljavtv&type=Date)](https://star-history.com/#endy23/alljavtv&Date)
-
----
-
- ## Website 
-[![Website](https://img.shields.io/badge/Website-Open-black?style=for-the-badge)](https://endy23.github.io/alljavtv/)
 
 ---
 
@@ -87,6 +82,6 @@ For support, bug reports, or business inquiries:
 
 ---
 
-## Website
+## Website 
+[![Website](https://img.shields.io/badge/Website-Open-black?style=for-the-badge)](https://endy23.github.io/alljavtv/)
 
-https://endy23.github.io/alljavtv/
