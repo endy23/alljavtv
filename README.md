@@ -1,29 +1,39 @@
-ALL JAV TV
+## ALL JAV TV
 
-JAV Viewer Android App made with Kotlin.
+## JAV Viewer Android App made with Kotlin.
 
 This app contains a database with over 50,000 videos, and with your support even more content will be added in future updates.
 
 ---
 
-Download
+## Download
 
 ![""Download APK" ](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)(https://github.com/endy23/alljavtv/releases/latest)
+
+## Latest Version: "2.0.5"
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge)
 [![Star History Chart](https://api.star-history.com/svg?repos=endy23/alljavtv&type=Date)](https://star-history.com/#endy23/alljavtv&Date)
 
-Latest Version: "2.0.5"
-
+[![Website](https://img.shields.io/badge/Website-Open-black?style=for-the-badge)](https://endy23.github.io/alljavtv/)
 ---
 
-Features
+## Features
 
 - Android TV support
 - Kotlin-based application
 - Lightweight and fast UI
 - Streaming viewer
 - Large integrated video database
+
+---
+
+## Installation
+
+1. Download latest APK
+2. Enable "Install unknown apps"
+3. Open APK
+4. Install application
 
 ---
 
