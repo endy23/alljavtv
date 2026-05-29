@@ -53,15 +53,19 @@ This application is intended for adult audiences only.
 
 <a href="https://paypal.me/endyaris">
   <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal">
-</a>---
+</a>
+
+---
 
 ## Crypto Donations
 
-## Phantom / Solana
+## Phantom
 
 <a href="https://phantom.app/ul/v1/transfer?recipient=d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb">
   <img src="https://img.shields.io/badge/Donate-Phantom-purple?style=for-the-badge">
-</a>Solana Address
+</a>
+
+## Solana Address
 
 d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb
 
