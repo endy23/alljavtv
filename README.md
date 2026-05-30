@@ -1,4 +1,4 @@
-## ALL JAV TV
+# ALL JAV TV
 
 ## JAV Viewer Android App made with Kotlin.
 
@@ -7,16 +7,16 @@ This app contains a database with over 50,000 videos, and with your support even
 ---
 ## Features
 
-⚡ Lightweight and fast Kotlin application<br>
-🔍 Search videos by title<br>
-🎭 Search videos by actor/actress<br>
-⭐ Add and manage favorites<br>
-🗄️ Import and export database<br>
-❤️ Import and export favorites<br>
-⏱️ Add custom time highlights/bookmarks to videos<br>
-🚀 Resume playback from the last watched position<br>
-📚 Database containing over 50,000 videos<br>
-🔊 Press Volume Down to quickly close the application<br>
+- ⚡ Lightweight and fast Kotlin application<br>
+- 🔍 Search videos by title<br>
+- 🎭 Search videos by actor/actress<br>
+- ⭐ Add and manage favorites<br>
+- 🗄️ Import and export database<br>
+- ❤️ Import and export favorites<br>
+- ⏱️ Add custom time highlights/bookmarks to videos<br>
+- 🌃 Streaming viewer
+- 📚 Database containing over 50,000 videos<br>
+- 🔊 Press Volume Down to quickly close the application<br>
 
 ---
 
@@ -27,16 +27,6 @@ This app contains a database with over 50,000 videos, and with your support even
 ## Latest Version: "2.0.5"
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge)
-
----
-
-## Features
-
-- Android TV support
-- Kotlin-based application
-- Lightweight and fast UI
-- Streaming viewer
-- Large integrated video database
 
 ---
 
