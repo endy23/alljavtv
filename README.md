@@ -7,9 +7,9 @@ This app contains a database with over 50,000 videos, and with your support even
 ---
 ## Features
 
-⚡ Lightweight and fast Kotlin application
-🔍 Search videos by title
-🎭 Search videos by actor/actress
+>⚡ Lightweight and fast Kotlin application
+>🔍 Search videos by title
+>🎭 Search videos by actor/actress
 ⭐ Add and manage favorites
 🗄️ Import and export database
 ❤️ Import and export favorites
