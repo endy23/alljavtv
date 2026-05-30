@@ -7,16 +7,16 @@ This app contains a database with over 50,000 videos, and with your support even
 ---
 ## Features
 
-#⚡ Lightweight and fast Kotlin application
-$ 🔍 Search videos by title
->🎭 Search videos by actor/actress
-⭐ Add and manage favorites
-🗄️ Import and export database
-❤️ Import and export favorites
-⏱️ Add custom time highlights/bookmarks to videos
-🚀 Resume playback from the last watched position
-📚 Database containing over 50,000 videos
-🔊 Press Volume Down to quickly close the application
+⚡ Lightweight and fast Kotlin application.
+🔍 Search videos by title.
+🎭 Search videos by actor/actress.
+⭐ Add and manage favorites.
+🗄️ Import and export database.
+❤️ Import and export favorites.
+⏱️ Add custom time highlights/bookmarks to videos.
+🚀 Resume playback from the last watched position.
+📚 Database containing over 50,000 videos.
+🔊 Press Volume Down to quickly close the application.
 
 ---
 
