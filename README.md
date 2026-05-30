@@ -6,7 +6,7 @@ This app contains a database with over 50,000 videos, and with your support even
 
 ---
 ## Features
-
+- 🔒 Pattern Lock protection
 - ⚡ Lightweight and fast Kotlin application<br>
 - 🔍 Search videos by title<br>
 - 🎭 Search videos by actor/actress<br>
