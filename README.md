@@ -40,7 +40,7 @@ This application is intended for adult audiences only.
 
 ---
 
-# Buy Me a Coffee ☕
+## Buy Me a Coffee ☕
 ### PayPal
 <a href="https://paypal.me/endyaris">
   <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal">
@@ -56,10 +56,10 @@ This application is intended for adult audiences only.
 <sub>d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb</sub>
 
 ### Bitcoin Address
-bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t
+<sub>bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t</sub>
 
 ### Ethereum Address
-0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7
+<sub>0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7</sub>
 
 ---
 
