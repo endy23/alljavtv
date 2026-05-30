@@ -53,7 +53,7 @@ This application is intended for adult audiences only.
 </a>
 
 ### Solana Address
-d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb
+<sub>d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb</sub>
 
 ### Bitcoin Address
 bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t
