@@ -26,6 +26,11 @@ Latest Version: "2.0.5"
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge)
 
+![Kotlin](https://img.shields.io/badge/Made%20With-Kotlin-purple?style=for-the-badge&logo=kotlin)
+
+
+![GitHub release](https://img.shields.io/github/v/release/endy23/alljavtv?style=for-the-badge)
+
 ---
 
 ## Installation
@@ -40,7 +45,23 @@ This application is intended for adult audiences only.
 
 ---
 
+## Report Issues
+
+https://github.com/endy23/alljavtv/issues
+
+---
+
 ## Buy Me a Coffee ☕
+
+## Support the Project
+
+Donations help fund:
+
+- Database growth
+- New features
+- Bug fixes
+
+
 ### PayPal
 <a href="https://paypal.me/endyaris">
   <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal">
