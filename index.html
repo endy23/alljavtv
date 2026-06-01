@@ -1,126 +1,171 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ALL JAV</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #111;
-      color: white;
-      text-align: center;
-      padding: 30px;
-    }
+<title>ALL JAV TV</title>
 
-    .container {
-      max-width: 700px;
-      margin: auto;
-    }
+<style>
+body{
+    font-family:Arial,sans-serif;
+    background:#111;
+    color:white;
+    text-align:center;
+    margin:0;
+    padding:20px;
+}
 
-    .download-btn {
-      display: inline-block;
-      padding: 15px 25px;
-      background: #28a745;
-      color: white;
-      text-decoration: none;
-      border-radius: 10px;
-      font-size: 20px;
-      margin-top: 20px;
-    }
+.container{
+    max-width:1000px;
+    margin:auto;
+}
 
-    .wallet {
-      background: #222;
-      padding: 15px;
-      border-radius: 10px;
-      margin-top: 15px;
-      word-wrap: break-word;
-    }
+.download-btn{
+    display:inline-block;
+    padding:15px 30px;
+    background:#28a745;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-size:20px;
+    margin:20px;
+}
 
-    hr {
-      margin: 40px 0;
-      border: 1px solid #333;
-    }
-  </style>
+.screenshots{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.screenshots img{
+    width:250px;
+    border-radius:12px;
+    border:2px solid #333;
+}
+
+.features{
+    text-align:left;
+    max-width:600px;
+    margin:auto;
+}
+
+.wallet{
+    background:#222;
+    padding:10px;
+    border-radius:8px;
+    margin:10px auto;
+    max-width:700px;
+    word-break:break-all;
+}
+
+a{
+    color:#4da3ff;
+}
+
+hr{
+    border:1px solid #333;
+    margin:30px 0;
+}
+</style>
 </head>
 
 <body>
 
 <div class="container">
 
-  <h1>ALL JAV Viewer</h1>
+<h1>ALL JAV TV</h1>
 
-  <p>Version 2.0.5</p>
+<p>Android JAV Viewer made with Kotlin</p>
 
-  <a class="download-btn"
-     href="https://github.com/endy23/alljavtv/releases/tag/2.0.5/AllJav2.0.5.apk">
-     ⬇ Download APK
-  </a>
+<p><b>Version 2.0.5</b></p>
 
-  <hr>
-
-  <h2>Buy me a coffee ☕</h2>
-
-  <h2>Donate with Phantom (SOL)</h2>
-
-<a href="https://phantom.app/ul/v1/transfer?recipient=d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb">
-  <img src="https://img.shields.io/badge/Donate-Phantom-purple?style=for-the-badge">
+<a class="download-btn"
+href="https://github.com/endy23/alljavtv/releases/latest">
+⬇ Download APK
 </a>
 
-  <div class="wallet">
-    <h3>SOLANA</h3>
-    <p>d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb</p>
-  </div>
+<hr>
 
-  <div class="wallet">
-    <h3>Bitcoin</h3>
-    <p>bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t</p>
-  </div>
+<h2>Screenshots</h2>
 
-  <div class="wallet">
-    <h3>Ethereum</h3>
-    <p>0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7</p>
-  </div>
+<div class="screenshots">
+    <img src="screenshots/1.jpg" alt="Lock Screen">
+    <img src="screenshots/2.jpg" alt="Home Screen">
+    <img src="screenshots/3.jpg" alt="Preview">
+    <img src="screenshots/4.jpg" alt="Player">
+    <img src="screenshots/5.jpg" alt="Player">
+</div>
 
-  <br>
+<hr>
 
-  <form action="https://www.paypal.com/donate"
-        method="post"
-        target="_top">
+<h2>Features</h2>
 
-    <input type="hidden"
-           name="business"
-           value="TP5NUB2Y3Q93W" />
+<div class="features">
+<ul>
+<li>🔒 Pattern Lock protection</li>
+<li>🔍 Search videos by title</li>
+<li>🎭 Search videos by actor/actress</li>
+<li>⭐ Favorites support</li>
+<li>🗄️ Import / Export database</li>
+<li>❤️ Import / Export favorites</li>
+<li>⏱️ Video bookmarks & highlights</li>
+<li>🌃 Streaming viewer</li>
+<li>📚 50,000+ videos database</li>
+<li>🔊 Quick exit with Volume Down</li>
+</ul>
+</div>
 
-    <input type="hidden"
-           name="no_recurring"
-           value="0" />
+<hr>
 
-    <input type="hidden"
-           name="item_name"
-           value="Buy me a coffee!!!" />
+<h2>Buy Me a Coffee ☕</h2>
 
-    <input type="hidden"
-           name="currency_code"
-           value="EUR" />
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="TP5NUB2Y3Q93W">
+<input type="hidden" name="currency_code" value="EUR">
 
-    <input type="image"
-           src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-           border="0"
-           name="submit"
-           title="Donate with PayPal"
-           alt="Donate with PayPal button" />
+<input type="image"
+src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+border="0"
+name="submit"
+alt="Donate with PayPal">
+</form>
 
-  </form>
+<div class="wallet">
+<b>Solana</b><br>
+d5L3ihSWp8EDTVmeFFWFVgibpcS4snUBc5WrBxDp2sb
+</div>
+
+<div class="wallet">
+<b>Bitcoin</b><br>
+bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t
+</div>
+
+<div class="wallet">
+<b>Ethereum</b><br>
+0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7
+</div>
+
+<hr>
+
+<h2>Contact</h2>
+
+<p>
+📧
+<a href="mailto:endyaris@gmail.com">
+endyaris@gmail.com
+</a>
+</p>
+
+<p>
+GitHub:
+<a href="https://github.com/endy23/alljavtv">
+github.com/endy23/alljavtv
+</a>
+</p>
 
 </div>
-<hr><h2>Contact</h2><p>
-  Support / Business inquiries:
-</p><p>
-  📧 <a href="mailto:endyaris@gmail.com">
-    endyaris@gmail.com
-  </a>
-</p>
+
 </body>
 </html>
