@@ -32,17 +32,29 @@ body{
     margin:20px;
 }
 
-.screenshots{
-    display:flex;
-    justify-content:center;
-    flex-wrap:wrap;
-    gap:15px;
+.screenshots {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    padding: 15px;
+    scroll-behavior: smooth;
 }
 
-.screenshots img{
-    width:250px;
-    border-radius:12px;
-    border:2px solid #333;
+.screenshots::-webkit-scrollbar {
+    height: 10px;
+}
+
+.screenshots::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 10px;
+}
+
+.screenshots img {
+    height: 300px;
+    width: auto;
+    border-radius: 12px;
+    border: 2px solid #333;
+    flex-shrink: 0;
 }
 
 .features{
