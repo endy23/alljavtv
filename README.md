@@ -11,7 +11,7 @@ This app contains a database with over 430,000 videos, and with your support eve
 - 🔍 Search videos by title<br>
 - 🎭 Search videos by actor/actress<br>
 - ⭐ Add and manage favorites<br>
-- 🗄️ Import and export database<br>
+- 🗄️ Import database<br>
 - ❤️ Import and export favorites<br>
 - ⏱️ Add custom time highlights/bookmarks to videos<br>
 - 🌃 Streaming viewer
