@@ -2,7 +2,7 @@
 
 ## JAV Viewer Android App made with Kotlin.
 
-This app contains a database with over 50,000 videos, and with your support even more content will be added in future updates.
+This app contains a database with over 430,000 videos, and with your support even more content will be added in future updates.
 
 ---
 ## Features
