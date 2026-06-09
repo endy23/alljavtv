@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -8,141 +9,193 @@
 
 <style>
 body{
-    font-family:Arial,sans-serif;
-    background:#111;
-    color:white;
-    text-align:center;
     margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#0d1117;
+    color:#fff;
+}
+
+.hero{
+    text-align:center;
+    padding:60px 20px;
+    background:linear-gradient(135deg,#111827,#1f2937);
+}
+
+.hero h1{
+    font-size:3rem;
+    margin-bottom:10px;
+}
+
+.hero p{
+    color:#ccc;
+    max-width:700px;
+    margin:auto;
+}
+
+.download{
+    display:inline-block;
+    margin-top:25px;
+    background:#22c55e;
+    color:white;
+    text-decoration:none;
+    padding:15px 30px;
+    border-radius:12px;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.download:hover{
+    opacity:.9;
+}
+
+.section{
+    max-width:1200px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:#161b22;
+    border-radius:12px;
     padding:20px;
 }
 
-.container{
-    max-width:1000px;
-    margin:auto;
+.card h3{
+    margin-top:0;
 }
 
-.download-btn{
-    display:inline-block;
-    padding:15px 30px;
-    background:#28a745;
-    color:white;
-    text-decoration:none;
-    border-radius:10px;
-    font-size:20px;
-    margin:20px;
+.screenshots{
+    display:flex;
+    overflow-x:auto;
+    gap:15px;
+    padding-bottom:10px;
 }
 
-.screenshots {
-    display: flex;
-    overflow-x: auto;
-    gap: 15px;
-    padding: 15px;
-    scroll-behavior: smooth;
-}
-
-.screenshots::-webkit-scrollbar {
-    height: 10px;
-}
-
-.screenshots::-webkit-scrollbar-thumb {
-    background: #444;
-    border-radius: 10px;
-}
-
-.screenshots img {
-    height: 300px;
-    width: auto;
-    border-radius: 12px;
-    border: 2px solid #333;
-    flex-shrink: 0;
-}
-
-.features{
-    text-align:left;
-    max-width:600px;
-    margin:auto;
+.screenshots img{
+    width:500px;
+    border-radius:12px;
+    border:2px solid #30363d;
+    flex-shrink:0;
 }
 
 .wallet{
-    background:#222;
-    padding:10px;
-    border-radius:8px;
-    margin:10px auto;
-    max-width:700px;
+    background:#161b22;
+    border-radius:12px;
+    padding:15px;
+    margin:10px 0;
     word-break:break-all;
 }
 
-a{
-    color:#4da3ff;
-}
-
-hr{
-    border:1px solid #333;
-    margin:30px 0;
+.footer{
+    text-align:center;
+    padding:30px;
+    color:#aaa;
 }
 </style>
+
 </head>
 
 <body>
 
-<div class="container">
+<div class="hero">
 
 <h1>ALL JAV TV</h1>
 
-<p>Android JAV Viewer made with Kotlin</p>
+<p>
+Android TV JAV Viewer built with Kotlin.
+Browse, search and organize a database of over 50,000 videos.
+</p>
 
-<p><b>Version 2.0.5</b></p>
-
-<a class="download-btn"
+<a class="download"
 href="https://github.com/endy23/alljavtv/releases/latest">
-⬇ Download APK
-</a>
+⬇ Download APK </a>
 
-<hr>
+<br><br>
+
+<img src="https://img.shields.io/github/downloads/endy23/alljavtv/total?style=for-the-badge">
+<img src="https://img.shields.io/github/v/release/endy23/alljavtv?style=for-the-badge">
+
+</div>
+
+<div class="section">
 
 <h2>Screenshots</h2>
 
 <div class="screenshots">
-    <img src="screenshots/1.jpg" alt="Lock Screen">
-    <img src="screenshots/2.jpg" alt="Home Screen">
-    <img src="screenshots/3.jpg" alt="Player">
-    <img src="screenshots/4.jpg" alt="Search">
-    <img src="screenshots/5.jpg" alt="Preview">
+<img src="screenshots/home.jpg">
+<img src="screenshots/search.jpg">
+<img src="screenshots/player.jpg">
+<img src="screenshots/favorites.jpg">
+<img src="screenshots/highlights.jpg">
 </div>
 
-<hr>
+</div>
+
+<div class="section">
 
 <h2>Features</h2>
 
-<div class="features">
-<ul>
-<li>🔒 Pattern Lock protection</li>
-<li>🔍 Search videos by title</li>
-<li>🎭 Search videos by actor/actress</li>
-<li>⭐ Favorites support</li>
-<li>🗄️ Import / Export database</li>
-<li>❤️ Import / Export favorites</li>
-<li>⏱️ Video bookmarks & highlights</li>
-<li>🎬 Movie Preview</li>
-<li>🌃 Streaming viewer</li>
-<li>📚 50,000+ videos database</li>
-<li>🔊 Quick exit with Volume Down</li>
-</ul>
+<div class="cards">
+
+<div class="card">
+<h3>🔒 Security</h3>
+Pattern Lock protection
 </div>
 
-<hr>
+<div class="card">
+<h3>🔍 Search</h3>
+Search videos by title or actor
+</div>
 
-<h2>Buy Me a Coffee ☕</h2>
+<div class="card">
+<h3>⭐ Favorites</h3>
+Create and manage favorite videos
+</div>
+
+<div class="card">
+<h3>🗄️ Backup</h3>
+Import and export database & favorites
+</div>
+
+<div class="card">
+<h3>⏱️ Highlights</h3>
+Create video bookmarks and time highlights
+</div>
+
+<div class="card">
+<h3>📺 Android TV</h3>
+Optimized for TV remote navigation
+</div>
+
+<div class="card">
+<h3>📚 Massive Database</h3>
+50,000+ videos and growing
+</div>
+
+<div class="card">
+<h3>🔊 Quick Exit</h3>
+Close app instantly with Volume Down
+</div>
+
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>Support Development ☕</h2>
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="TP5NUB2Y3Q93W">
 <input type="hidden" name="currency_code" value="EUR">
-
 <input type="image"
-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-border="0"
-name="submit"
-alt="Donate with PayPal">
+src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
 </form>
 
 <div class="wallet">
@@ -160,25 +213,24 @@ bc1pw5lvjufe4jc49s485twqu4dkavdjj0dn0pgh6uzu7u7u4teh883s26l94t
 0x5fcfB93Bf2D06F9E339D26D557Fb39663b54e7D7
 </div>
 
-<hr>
+</div>
+
+<div class="section">
 
 <h2>Contact</h2>
 
 <p>
-📧
-<a href="mailto:endyaris@gmail.com">
+📧 <a href="mailto:endyaris@gmail.com" style="color:#58a6ff;">
 endyaris@gmail.com
-</a>
-</p>
-
-<p>
-GitHub:
-<a href="https://github.com/endy23/alljavtv">
-github.com/endy23/alljavtv
 </a>
 </p>
 
 </div>
 
+<div class="footer">
+ALL JAV TV • Version 2.0.5
+</div>
+
 </body>
 </html>
+
